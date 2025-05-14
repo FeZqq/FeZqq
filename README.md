@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ferit Özner</h1>
 <h3 align="center">Penetration Tester</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fezqq&label=Profile%20views&color=0e75b6&style=plastic" alt="fezqq" /> </p>
 
 - 🔭 I’m currently working on **Cyber Security**
 
