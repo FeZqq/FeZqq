@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ferit Özner</h1>
-<h3 align="center">Penetration Tester</h3>
+<h1 align="center">Ferit Özner</h1>
+<h3 align="center">Cyber Security Researcher / Penetration Tester</h3>
 
 
 - 🔭 I’m currently working on **Cyber Security**
